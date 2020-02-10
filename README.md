@@ -5,9 +5,11 @@ India is home to over 60 million adults with diabetes (7.8% of the population), 
 
 Libraries used-Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn
 
-Algorithms used- Logistic Regression, Support Vector Machine, KNN, Random Forest Classifier, Naivye Bayes, Gradient Boosting
+Algorithms used- Logistic Regression, KNN, Random Forest Classifier, Gradient Boosting
 
 Model Evaluation methods used- Accuracy Score, ROC AUC Curve, Cross Validation, Confusion Matrix
+
+Suggestions are welcome.
 
 
 
