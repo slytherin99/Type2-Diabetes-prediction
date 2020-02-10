@@ -9,6 +9,8 @@ Algorithms used- Logistic Regression, KNN, Random Forest Classifier, Gradient Bo
 
 Model Evaluation methods used- Accuracy Score, ROC AUC Curve, Cross Validation, Confusion Matrix
 
+Link to the video of the model: https://drive.google.com/file/d/150S6ao6wLHug-slRY76iuISe6G8nqkLq/view
+
 Suggestions are welcome.
 
 
